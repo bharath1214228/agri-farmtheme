@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 20:04:52 at https://themes.muffingroup.com/be/farm/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themes.muffingroup.com/be/farm/ -O1 "C:\Users\dell\Desktop\barath\AGRI3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:07:11	Warning: 	File not parsed, looks like binary: https://themes.muffingroup.com/be/farm/wp-content/plugins/revslider/public/assets/css/openhand.cur
+20:07:11	Warning: 	File not parsed, looks like binary: https://themes.muffingroup.com/be/farm/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+20:07:14	Error: 	"Not Found" (404) at link https://themes.muffingroup.com/be/farm/Version/ (from https://themes.muffingroup.com/be/farm/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js)
+20:07:14	Error: 	"Not Found" (404) at link https://themes.muffingroup.com/be/farm/CustomEase.min.js (from https://themes.muffingroup.com/be/farm/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js)
+20:07:14	Error: 	"Not Found" (404) at link https://themes.muffingroup.com/be/TweenLite.min.js (from https://themes.muffingroup.com/be/farm/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js)
+20:07:14	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/farm/origin=https://
+20:07:14	Warning: 	Redirected link is identical because of 'URL Hack' option: https://themes.muffingroup.com/be/farm/origin=https:// and https://themes.muffingroup.com/be/farm/origin=https:/
+20:07:14	Warning: 	File has moved from https://themes.muffingroup.com/be/farm/origin=https:// to https://themes.muffingroup.com/be/farm/origin=https:/
+20:07:14	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/farm/?p=41
+20:07:14	Warning: 	File has moved from https://themes.muffingroup.com/be/farm/?p=41 to https://themes.muffingroup.com/be/farm/history/
+20:07:14	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/farm/?p=45
+20:07:14	Warning: 	File has moved from https://themes.muffingroup.com/be/farm/?p=45 to https://themes.muffingroup.com/be/farm/check-our-products/
+20:07:14	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/farm/?p=47
+20:07:14	Warning: 	File has moved from https://themes.muffingroup.com/be/farm/?p=47 to https://themes.muffingroup.com/be/farm/about-us/
+20:07:14	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/farm/?p=43
+20:07:14	Warning: 	File has moved from https://themes.muffingroup.com/be/farm/?p=43 to https://themes.muffingroup.com/be/farm/contact/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 22 seconds : 161 links scanned, 152 files written (10435500 bytes overall) [7073666 bytes received at 49814 bytes/sec], 5645881 bytes transferred using HTTP compression in 74 files, ratio 34%, 13.5 requests per connection
+(3 errors, 13 warnings, 0 messages)
